@@ -1,5 +1,5 @@
 <?php
-namespace Magento\Tblock\Controller\Index;
+namespace Macraen\MagentoHellowBlock\Controller\Index;
 
 use Magento\Framework\Controller\ResultFactory;
 
