@@ -1,0 +1,24 @@
+{
+  "name": "macraen/magentohellow",
+  "description": "Block-module for Magento 2",
+  "version": "0.1",
+  "type": "magento2-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Max Macraen",
+      "email": "macraen.dev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.9"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Macraen\\HellowMagento\\": ""
+    }
+  }
+}
