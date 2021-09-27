@@ -1,5 +1,5 @@
 {
-  "name": "macraen/magentohellow",
+  "name": "macraen/magentohellowblock",
   "description": "Block-module for Magento 2",
   "version": "0.1",
   "type": "magento2-module",
@@ -18,7 +18,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Macraen\\HellowMagento\\": ""
+      "Macraen\\HellowMagentoBlock\\": ""
     }
   }
 }
